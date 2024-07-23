@@ -5,3 +5,4 @@ while i*i<n:
     count+=1
     i+=1
 print(count)
+pt
